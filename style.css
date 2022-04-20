@@ -1,0 +1,88 @@
+.body{
+	font-family: "Roboto", , sans-serif;
+}
+
+.navbar-brand{
+	margin-left: 8px;
+}
+
+@media(max-width: 992px){
+	.arama-formu{
+		display: none;
+	}
+
+}
+
+.arama{
+	float: right;
+
+}
+
+.arama-input{
+	width: 80px !important;
+	transition: .5s ease;
+}
+
+.arama-input:focus{
+	width: 200px !important; 
+}
+
+.topbar{
+	background-color: #cfcfcf;
+	color: pink-400;
+	padding: 5px 20px !important;
+	text-align: center;
+	font-size: 16px;
+}
+
+.topbar .phone-number{
+	color: black;
+	font-size: 13px !important;
+}
+
+.topbar .phone-number:hover{
+	color: #cd5555;
+}
+
+.page-footer{
+	background-color: #cfcfcf;
+	height: 370px;
+	color: black;
+	padding-top: 20px
+	padding-bottom:20px;
+
+{
+
+.page-footer .footer-col{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.page-footer .footer-col:first-of-type{
+	padding-left: 0 !important;
+}
+
+.second-col ul{
+	list-style: none;
+	padding: 0 !important;
+	
+}
+.footer-link{
+	font-size: 13px;
+	color:red;
+}
+
+.footer-link:hover{
+	color:red;
+}
+
+.fourth-col .row{
+	text-align: right;
+
+}
+
+hr.separator{
+	width: 80%;
+	background-color: #888;
+}
+

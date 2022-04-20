@@ -1,0 +1,27 @@
+.kapsayici .resim{
+	width: 220px;
+	
+	background: #fff;
+	margin: 50px 20px;
+	border: 1px solid #ccc;
+	box-shadow: 1px 1px 3px #ccc;
+
+
+}
+
+.kapsayici img{
+	width: 200px;
+	margin: 0;
+	margin-top: 8px;
+	margin-left: 8px;
+	margin-bottom: 8px;
+
+
+}
+
+.kapsayici {
+	width: 1100px;
+	margin: 0 auto;
+
+}
+
